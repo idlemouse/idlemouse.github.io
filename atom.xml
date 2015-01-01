@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Josh Mashes Keys]]></title>
+  <link href="http://idlemouse.gitub.io/atom.xml" rel="self"/>
+  <link href="http://idlemouse.gitub.io/"/>
+  <updated>2015-01-01T21:32:44+00:00</updated>
+  <id>http://idlemouse.gitub.io/</id>
+  <author>
+    <name><![CDATA[Joshua D Foster]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+</feed>
