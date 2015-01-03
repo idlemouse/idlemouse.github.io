@@ -2,15 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Josh Mashes Keys]]></title>
-  <link href="http://idlemouse.gitub.io/atom.xml" rel="self"/>
-  <link href="http://idlemouse.gitub.io/"/>
-  <updated>2015-01-01T21:32:44+00:00</updated>
-  <id>http://idlemouse.gitub.io/</id>
+  <link href="http://idlemouse.github.io/atom.xml" rel="self"/>
+  <link href="http://idlemouse.github.io/"/>
+  <updated>2015-01-02T23:50:41+00:00</updated>
+  <id>http://idlemouse.github.io/</id>
   <author>
-    <name><![CDATA[Joshua D Foster]]></name>
+    <name><![CDATA[J.D. Foster]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[An Educated Fool]]></title>
+    <link href="http://idlemouse.github.io/blog/2015/01/02/an-educated-fool/"/>
+    <updated>2015-01-02T16:31:47+00:00</updated>
+    <id>http://idlemouse.github.io/blog/2015/01/02/an-educated-fool</id>
+    <content type="html"><![CDATA[<p>This is the beginning of a project that I have had in mind for some time, which I have now finally had the time commit to get it up and running. For this endeavour I am hoping to  write a blog fit for others to read (well hopefully).</p>
+
+<p>My plan is to write and post a blog on a weekly basis for the next year. Although this posting frequency may vary slightly depending on how eventful life becomes and my time allows. I don&rsquo;t have any particular target audience nor a reason to blog other that for enjoyment. That is not to say that this won&rsquo;t evolve and start to follow a pattern.</p>
+
+<p>Obviously, it goes without say that my writing is my own opinion and probably reviewed and edit, so much be taken with a pinch of salt (as most things on the internet). I would like to think there will be some integrity to may writing, but I might just piss it all away on some whim.</p>
+]]></content>
+  </entry>
   
 </feed>

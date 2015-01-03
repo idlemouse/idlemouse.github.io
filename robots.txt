@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://idlemouse.gitub.io/sitemap.xml 
+Sitemap: http://idlemouse.github.io/sitemap.xml 
