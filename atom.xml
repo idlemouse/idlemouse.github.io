@@ -4,7 +4,7 @@
   <title><![CDATA[Josh Mashes Keys]]></title>
   <link href="http://idlemouse.github.io/atom.xml" rel="self"/>
   <link href="http://idlemouse.github.io/"/>
-  <updated>2015-01-26T23:32:06+00:00</updated>
+  <updated>2015-01-27T20:54:14+00:00</updated>
   <id>http://idlemouse.github.io/</id>
   <author>
     <name><![CDATA[J.D. Foster]]></name>
@@ -37,7 +37,7 @@ of St Andrews. The many aim was to make circular plots and circular
 statistics, without having to use a clunky third-party plugin for
 Excel. But the ability to identically batch process data and making
 beautiful graphics really sold it for me. However, since then I have
-been more included to use <strong>MATLAB</strong>, although not perfect, it is a more
+been more included to use MATLAB, although not perfect, it is a more
 complete solution and allows for user-interfaces.</p>
 
 <p>At present, I am using a mix between Xubuntu (on my home desktop),
