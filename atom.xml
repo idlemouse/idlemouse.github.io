@@ -4,7 +4,7 @@
   <title><![CDATA[Josh Mashes Keys]]></title>
   <link href="http://idlemouse.github.io/atom.xml" rel="self"/>
   <link href="http://idlemouse.github.io/"/>
-  <updated>2015-08-30T00:54:37+01:00</updated>
+  <updated>2015-08-30T17:41:57+01:00</updated>
   <id>http://idlemouse.github.io/</id>
   <author>
     <name><![CDATA[J.D. Foster]]></name>
@@ -18,22 +18,23 @@
     <link href="http://idlemouse.github.io/blog/2015/08/29/i-got-distracted/"/>
     <updated>2015-08-29T23:27:48+01:00</updated>
     <id>http://idlemouse.github.io/blog/2015/08/29/i-got-distracted</id>
-    <content type="html"><![CDATA[<p>It has been quite a while and my plans went awry from that I had
-planned. Time to start again&hellip; As I had mentioned before I am using
-<strong>octopress</strong>, which works a treat most of the time. There are a few
-novel quirks that it could do without. Hopefully the release of
-octopress 3 will sort these out. I had been putting off posting and
-waiting for the to the official release and hence the delay. Today I
-spent a few hours trying to migrating over my current blog with theme
-layout to latest version, but hit a few brick walls and am thinking to
-now wait till some kind souls creates some interesting new themes.</p>
+    <content type="html"><![CDATA[<p>It has been quite a while and my plans have gone awry from what I
+wanted to do. Time to start again, maybe&hellip; As I had mentioned before
+I am using <a href="http://idlemouse.github.io/blog/2015/01/19/stumbling-out-of-the-starting-gate/">octopress</a>, which works a treat
+most of the time. There are a few novel quirks that it could do
+without. Hopefully the release of octopress 3 will sort these out. I
+had been putting off posting and waiting for the to the official
+release and hence the delay. Today I spent a few hours trying to
+migrating over my current blog with theme layout to latest version,
+but hit a few brick walls and am thinking to now wait till some kind
+souls creates some interesting new themes.</p>
 
 <p>A list of post I would like to write:</p>
 
 <ul>
-<li>Finish albums from last year post</li>
+<li>Finish post with review of 2014 albums</li>
 <li>Write a entry on current my emacs GNUS/BBDB/MSTP setup</li>
-<li>Menu item to list publication</li>
+<li>Menu item to list publications</li>
 <li>Upload some of my <strong>R</strong> functions</li>
 <li>SQLite recursive functions and frustration of LinuxMint</li>
 <li>Play around with <strong>d3</strong> some of my published data</li>
