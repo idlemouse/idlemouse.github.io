@@ -20,13 +20,13 @@ running. For &hellip;">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   
-  <link rel="canonical" href="http://idlemouse.github.io/blog/2015/01/02/an-educated-fool/">
+  <link rel="canonical" href="http://idlemouse.github.io/blog/2015/01/02/an-educated-fool">
   <link href="/favicon.png" rel="icon">
   <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
   <link href="" rel="alternate" title="Josh Mashes Keys" type="application/atom+xml">
   <script src="/javascripts/modernizr-2.0.js"></script>
   <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
-  <script>!window.jQuery && document.write(unescape('%3Cscript src="/javascripts/libs/jquery.min.js"%3E%3C/script%3E'))</script>
+  <script>!window.jQuery && document.write(unescape('%3Cscript src="./javascripts/libs/jquery.min.js"%3E%3C/script%3E'))</script>
   <script src="/javascripts/octopress.js" type="text/javascript"></script>
   <!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
 <link href='https://fonts.googleapis.com/css?family=Noto+Serif:400,700' rel='stylesheet' type='text/css'>
@@ -46,21 +46,15 @@ running. For &hellip;">
 
 </header>
   <nav role="navigation"><ul class="subscription" data-subscription="rss">
-  <li><a href="" rel="subscribe-rss" title="subscribe via RSS">RSS</a></li>
+  
   
 </ul>
-  
-<form action="https://www.google.com/search" method="get">
-  <fieldset role="search">
-    <input type="hidden" name="sitesearch" value="idlemouse.github.io">
-    <input class="search" type="text" name="q" results="0" placeholder="Search"/>
-  </fieldset>
-</form>
-  
+
 <ul class="main-navigation">
   <li><a href="/">Blog</a></li>
   <li><a href="/blog/archives">Archives</a></li>
-  <li><a href="/about">About</a></li>
+  <li><a href="/about/">About</a></li>
+  <li><a href="/publications/">Publications</a></li>
 </ul>
 
 </nav>
@@ -80,7 +74,15 @@ running. For &hellip;">
 
 
 
-<time class='entry-date' datetime='2015-01-02T16:31:47+00:00'><span class='date'><span class='date-month'>Jan</span> <span class='date-day'>2</span><span class='date-suffix'>nd</span>, <span class='date-year'>2015</span></span> <span class='time'>4:31 pm</span></time>
+
+
+
+
+  
+
+
+
+<time datetime="2015-01-02T16:31:47+00:00" pubdate data-updated="true">Jan 2nd, 2015</time>
         
       </p>
     
@@ -119,7 +121,15 @@ away on some whim.</p>
 
 
 
-<time class='entry-date' datetime='2015-01-02T16:31:47+00:00'><span class='date'><span class='date-month'>Jan</span> <span class='date-day'>2</span><span class='date-suffix'>nd</span>, <span class='date-year'>2015</span></span> <span class='time'>4:31 pm</span></time>
+
+
+
+
+  
+
+
+
+<time datetime="2015-01-02T16:31:47+00:00" pubdate data-updated="true">Jan 2nd, 2015</time>
       
 
 
@@ -145,7 +155,15 @@ away on some whim.</p>
 
 </div>
 
-<aside class="sidebar">
+  <aside class="sidebar">
+   
+<form action="https://www.google.com/search" method="get">
+  <fieldset role="search">
+    <input type="hidden" name="q" value="site:idlemouse.github.io" />
+    <input class="search" type="text" name="q" results="0" placeholder="Search"/>
+  </fieldset>
+</form>
+  
   
     <section>
   <h1>Recent Posts</h1>
@@ -218,6 +236,7 @@ away on some whim.</p>
 </aside>
 
 
+
     </div>
   </div>
   <footer role="contentinfo"><p>
@@ -248,23 +267,28 @@ away on some whim.</p>
 
 <script>
   $(document).ready(function() {  
-  var stickyNavTop = $('nav').offset().top;  
-    
-  var stickyNav = function(){  
-  var scrollTop = $(window).scrollTop();  
-         
-  if (scrollTop > stickyNavTop) {   
-      $('nav').addClass('sticky');  
-  } else {  
-      $('nav').removeClass('sticky');   
-  }  
-  };  
-    
-  stickyNav();  
-    
-  $(window).scroll(function() {  
+    var stickyNavTop = $('nav').offset().top;  
+      
+    var stickyNav = function(){  
+      var scrollTop = $(window).scrollTop(); 
+      var navHasClassSticky = $('nav').hasClass('sticky');
+
+      if (scrollTop > stickyNavTop && navHasClassSticky) {   
+        return true;
+      } else if (scrollTop > stickyNavTop) {
+        $('nav').hide();
+        $('nav').addClass('sticky');
+        $('nav').fadeIn('2000');
+      } else {  
+        $('nav').removeClass('sticky');   
+      }  
+    };  
+      
+    stickyNav();  
+      
+    $(window).scroll(function() {  
       stickyNav();  
-  });  
+    });  
   });  
 </script>
 
