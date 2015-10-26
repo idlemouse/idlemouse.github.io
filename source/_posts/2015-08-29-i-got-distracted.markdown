@@ -23,7 +23,7 @@ A list of post I would like to write:
 
 + Finish post with review of 2014 albums
 + Write a entry on current my emacs GNUS/BBDB/MSTP setup
-+ Menu item to list publications
++ ~~Menu item to list publications~~
 + Upload some of my **R** functions
 + SQLite recursive functions and frustration of LinuxMint
 + Play around with **d3** some of my published data

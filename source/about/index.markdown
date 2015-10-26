@@ -9,7 +9,7 @@ footer: true
 
 ##Joshua Foster
 
-{% img right /images/Me-and-MrB.jpg 350 %} I am a post-doctoral research scientist working at University College London. My research interest are in the neuronal control of movement within the spinal cord. At present, my research is focused on characterising final-order interneurons and mapping the synaptic strength of their connections within the spinal locomotor networks.
+{% img right /images/Josh-at-UCL.jpg 350 %} I am a post-doctoral research scientist working at University College London. My research interest are in the neuronal control of movement within the spinal cord. At present, my research is focused on characterising final-order interneurons and mapping the synaptic strength of their connections within the spinal locomotor networks.
 
 One of my life-long passions has been music. I love just listening to music for hours-on-end or heading out to a venue and watching a great live music or comedy. The rest of my time is generally taken up with computer related fun/development, film and books.
 

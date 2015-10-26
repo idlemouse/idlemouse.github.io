@@ -1,3 +1,6 @@
 [submodule ".themes/boldandblue"]
 	path = .themes/boldandblue
 	url = git@github.com:johnkeith/boldandblue.git
+[submodule ".theme/boldandblue"]
+	path = .theme/boldandblue
+	url = git@github.com:johnkeith/boldandblue.git
