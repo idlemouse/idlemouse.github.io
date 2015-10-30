@@ -2,7 +2,7 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://idlemouse.github.io
+url: http://jdfoster.github.io
 title: Josh Mashes Keys
 subtitle: Scientist, music lover and technophile.
 author: J.D. Foster
@@ -64,7 +64,7 @@ default_asides: [asides/recent_posts.html, custom/asides/twitter-feed.html, asid
 # ----------------------- #
 
 # Github repositories
-github_user: idlemouse
+github_user: jdfoster
 github_repo_count: 0
 github_show_profile_link: true
 github_skip_forks: true
