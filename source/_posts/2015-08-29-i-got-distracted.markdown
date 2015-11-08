@@ -19,7 +19,7 @@ but hit a few brick walls and am thinking to now wait till some kind
 souls creates some interesting new themes.
 
 
-A list of post I would like to write:
+A list of posts I would like to write:
 
 + Finish post with review of 2014 albums
 + Write a entry on current my emacs GNUS/BBDB/MSTP setup

@@ -75,7 +75,12 @@ can be found on the
 
 __Neural Control of Movement Lab, University of St Andrews__ (2014 & 2012) Brain Basics. _Fife Schools Science Fair, University of St Andrews, St Andrews._
 
-__Neural Control of Movement Lab, University of St Andrews__ (2013) Walking without a Brain. _Wonder: Art and Science of the Brain, Wellcome Trust Street Fair, Barbican Centre, London._
+__Neural Control of Movement Lab, University of St Andrews__ (2013) Walking without a Brain. [_Wonder: Art and Science of the Brain, Wellcome Trust Street Fair, Barbican Centre, London._](http://www.barbican.org.uk/wonder)
+
+{% img /images/NCM-Wonder-Street-Fair.jpg %}
+_The NCM lab at Wellcome Trust Street Fair, Barbican Centre,
+London. From left to right Anna-Claire Devlin, Joshua Foster, Gareth
+Miles and Emily Witts._
 
 <a id="poster-presentations"></a>
 ##Poster Presentations
